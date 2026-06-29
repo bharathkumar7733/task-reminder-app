@@ -61,8 +61,8 @@ flutter doctor
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bharathkumar7733/flutter.git
-   cd flutter
+   git clone https://github.com/bharathkumar7733/task-reminder-app.git
+   cd task-reminder-app
    ```
 
 2. **Get all package dependencies**:
